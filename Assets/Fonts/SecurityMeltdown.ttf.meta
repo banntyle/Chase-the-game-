@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e98ca1a34d98b474593385de2829d404
+timeCreated: 1513193568
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Security Meltdown
+  fontNames:
+  - Security Meltdown
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
